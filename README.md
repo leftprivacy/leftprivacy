@@ -6,7 +6,7 @@
 
 I am an experienced software developer with a strong background in both education and the technology industry. I have a passion for creating innovative and efficient technology solutions. 🚀✨
 
-### RPL Teacher at SMK Nurul Islam (2018 - 2022) 📚👨‍🏫
+### Teacher at SMK Nurul Islam Cianjur (2018 - 2022) 📚👨‍🏫
 
 - Taught and inspired students in Software Engineering.
 - Developed curriculum focused on programming and application development.
