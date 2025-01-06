@@ -56,8 +56,8 @@ Here are some of the projects I've worked on:
 
 ## 🌐 Contact Me  
 I'm always open to discussing new projects, collaborations, or general inquiries. You can reach me through:  
-- 📧 **Email:** [ajang.supardi@email.com](mailto:ajang.supardi@email.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/ajang-supardi](https://linkedin.com/in/ajang-supardi)  
+- 📧 **Email:** [ajangsupardi@email.com](mailto:ajangsupardi@email.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/ajangsupardi](https://linkedin.com/in/ajangsupardi)  
 - 🌍 **Portfolio Website:** [ajangsupardi.com](https://ajangsupardi.com) 
 
 ---
