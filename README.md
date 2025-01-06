@@ -38,8 +38,7 @@ Here are the technologies and tools I frequently use:
 - Integrated third-party APIs, including payment systems and delivery services.  
 - Collaborated with designers to create user-friendly interfaces using Bootstrap and jQuery.  
 
-### 🔹 **Freelance Web Developer**  
-*(2017 - Present)*  
+### 🔹 **Freelance Web Developer** *(2017 - Present)*  
 - Developed custom applications, including e-commerce platforms, CRMs, and inventory management systems.  
 - Assisted clients with application deployment and server/hosting management.  
 
@@ -64,8 +63,8 @@ I'm always open to discussing new projects, collaborations, or general inquiries
 ---
 
 ## 🌟 GitHub Stats  
-![Ajang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AjangSupardi&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AjangSupardi&layout=compact&theme=radical)  
+![Ajang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leftprivacy&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leftprivacy&layout=compact&theme=radical)  
 
 ---
 
