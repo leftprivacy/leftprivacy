@@ -32,8 +32,7 @@ Here are the technologies and tools I frequently use:
 ---
 
 ## 📌 Work Experience  
-### 🔹 **Web Application Developer**  
-**PT. Rynest Technology Indomedia** *(2022 - Present)*  
+### 🔹 **Web Application Developer**  **PT. Rynest Technology Indomedia** *(2022 - Present)*  
 - Built and maintained Laravel-based applications for internal company management.  
 - Integrated third-party APIs, including payment systems and delivery services.  
 - Collaborated with designers to create user-friendly interfaces using Bootstrap and jQuery.  
